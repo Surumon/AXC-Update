@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/quests/plugins
+END
+GetSpawn2IDs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/quests/plugins/GetSpawn2IDs.pl
+END
+path_tools.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/quests/plugins/path_tools.pl
+END
+group_utility.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/quests/plugins/group_utility.pl
+END
+whisper.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/quests/plugins/whisper.pl
+END
+default-actions.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/quests/plugins/default-actions.pl
+END
+globals.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/quests/plugins/globals.pl
+END
+default.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/quests/plugins/default.pl
+END
+random_message.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/quests/plugins/random_message.pl
+END
+anim.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/quests/plugins/anim.pl
+END
+check_hasitem.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/quests/plugins/check_hasitem.pl
+END
+soulbinders.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/quests/plugins/soulbinders.pl
+END
+zone_tools.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/quests/plugins/zone_tools.pl
+END
+random_range.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/quests/plugins/random_range.pl
+END
+check_handin.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/quests/plugins/check_handin.pl
+END
+npc_tools.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/quests/plugins/npc_tools.pl
+END
+guildmasters.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/quests/plugins/guildmasters.pl
+END
+utility.pl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/quests/plugins/utility.pl
+END
