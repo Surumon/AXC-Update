@@ -1,6 +1,29 @@
 NOTE: This log encapsulates changes for both the database and quest scripts.  You require both to be installed to play AX-Classic Repack with my update!
 
 =============
+= 7/30/2015 =
+=============
+- The following recipes now use the proper ID Bone Chips:
+
+Stoutdeacon Gauntlets Material
+Muramite Needle
+Deep Muses Armguard Material
+
+- ALL Undead should drop the appropriate ID Bone Chips.  Necromancers and Shadow Knights rejoice!
+
+- Removed excess Savageclaw crafting recipes to reflect updated drop tables for proper Bone Chips.
+
+- Updated quest for Bone Chips handed out by Gunlok Jure (quests\kaladimb\Gunlok_Jure.pl).  Now has second part.
+
+- Undead in the following locations remember they can wield weapons some:
+
+Toxx Forest
+Butcherblock Mountains
+Lake of Ill Omen
+
+- Removed the "Classic Zone" restriction for level 50+ characters.  This means you can kill anything or buff anyone who is under level 50.
+
+=============
 = 7/22/2015 =
 =============
 -Fixed database having two entries for Beastlord starting spell Salve* ; Beastlords should only spawn with 1 Salve spell now.
