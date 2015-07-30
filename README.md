@@ -17,6 +17,8 @@ This project will never attempt to be the current live state of the AX-Classic R
 
 =====
 
+#Credits
+
 Primary AX-Classic, the Rathe Server, is updated and maintained by a great community of players.  I highly suggest you visit them and get to know them.
 
 The repack was made by a fine gentleman by the name of leslamarch for his father.  All credit goes to him for the repack launcher. 
@@ -46,6 +48,8 @@ Client Only:
 - AX-Classic Launcher (for ease of use)
 
 ======
+
+# Downloads
 
 AX-Classic Repack & Required Files : https://www.dropbox.com/sh/92pruwf30u4h08o/AACrjf1pQHIuL2Xthr1oOxJTa?dl=0
 
@@ -77,4 +81,10 @@ Creating Your Own Quests Tutorial Video : TBA
 
 General Tutorial and Starting Tips : TBA
 
-Please, please, and more please - If you find an issue with a quest or faction, or wish to supply your own fix - Let me know by either creating an issue or by submitting your fix for a broken script so we can get this all working!  Thanks!
+======
+
+#Reporting Bugs
+
+If you find any issue with a quest, NPC, or database error (wrong crafting recipe, bad spells, empty vendor, et cetera) please consider posting in the issues on Github.  Alternatively, you can send an e-mail to the address below.
+
+Bug Report E-Mail : TBA
