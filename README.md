@@ -63,8 +63,6 @@ AX-Classic Repack & Required Files : https://www.dropbox.com/sh/92pruwf30u4h08o/
 
 If you are installing AX-Classic Repack for the first time, you require the following map files in order to actually utilize the server (otherwise your players will be unable to attack enemies).
 
-AX-Classic Map Files : https://www.dropbox.com/sh/sartb6g7khsgnnd/AABIZ0zESVxsa0eeDFoW5ijoa?dl=0
-
 ======
 
 #Installation Instructions
