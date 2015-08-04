@@ -6,7 +6,7 @@ I will be hosting update patches in the form of 7-ZIP files.  You can download t
 
 =====
 
-# Last Updated : July 30, 2015
+# Last Build Update : July 30, 2015
 
 =====
 
@@ -55,6 +55,8 @@ Client Only:
 - AX-Classic Launcher (for ease of use)
 - Enough hard drive space to install EQ Titanium
 
+NOTE: The server will work over a local area network just fine.  The server also works over Hamachi, I would assume it also works over other VPN software.  However, I haven't tested it with all software.  Use at your own risk!
+
 ======
 
 # Downloads
@@ -67,7 +69,27 @@ If you are installing AX-Classic Repack for the first time, you require the foll
 
 #Installation Instructions
 
+#Client Only:
+1) Install EQ Titanium.
+2) If you want to support more than one install of EverQuest Emu - Copy the Titanium Directory to a new destination.  Rename this directory to something easy to remember, like AXCemu.
+3) Download the following files from DropBox (link above) : AxLauncher.7z [required], classice.zip [required], and client_mapsc.zip [optional]
+4) Unzip classice.zip into the AXCemu directory.
+5) Unzip AxLauncher.7z into the AXCemu diretory.
+6) Modify your eqhost.txt file to read the IP of the server you are connecting to (example : "Host=127.0.0.1:5999:5999" )
+7) Modify your settings.ini file to read the IP of the server you are connecting to (example : "miniLoginIPPort = 127.0.0.1:5999:5999" )
+8) Rename lavastorm.eqg and nektulos.eqg to lavastorm.eqg.bak and nektulos.eqg.bak (We use old zones, if you don't rename these, you cannot zone into Lava Storm or Nektulos Forest properly).
+9) Install optional updated client map files.  The client_mapsc.zip is extracted to the maps directory.  You only need this file if you want newer/updated maps than the base EQ Titanium maps.  If you wish to explore at your own pace, do not install this file.
+10) Create a short cut for AxLauncher.exe and send it to your desktop to make it easier to access.
+11) Run the launcher and create an account.
+12) Log in and play AX-Classic Repack.
+
+NOTE: Client computers do not require any additional server files.
+
+#Server Only:
 TBA
+
+#Server and Client:
+Follow both installation instructions to both host and play.
 
 ======
 
