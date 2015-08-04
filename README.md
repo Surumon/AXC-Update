@@ -33,7 +33,7 @@ If you like the repack and would like to see the current live version of the ser
 
 #Installation Requirements
 
-Server Host & Play:
+<h2>Server Host & Play:</h2>
 - EQ Titanium Install
 - AX-Classic Repack
 - AX-Classic Repack Files
@@ -43,13 +43,13 @@ Server Host & Play:
 - At least 5 GB free of hard drive space
 - Ability to run EverQuest: Titanium Edition
 
-Server Host Only:
+<h2>Server Host Only:</h2>
 - AX-Classic Repack
 - AX-Classic Repack Files
 - Updated Patch files for MySQL and Quests
 - At least 3 GB free of hard drive space
 
-Client Only:
+<h2>Client Only:</h2>
 - EQ Titanium Install
 - AX-Classic Required Client Files
 - AX-Classic Launcher (for ease of use)
@@ -63,13 +63,13 @@ NOTE: The server will work over a local area network just fine.  The server also
 
 AX-Classic Repack & Required Files : https://www.dropbox.com/sh/92pruwf30u4h08o/AACrjf1pQHIuL2Xthr1oOxJTa?dl=0
 
-If you are installing AX-Classic Repack for the first time, you require the following map files in order to actually utilize the server (otherwise your players will be unable to attack enemies).
+Server hosts - You need the map files!  This is non-negotiable, failure to install the server correctly will result in players who cannot interact with the world.
 
 ======
 
 #Installation Instructions
 
-#Client Only:
+<h2>Client Only:</h2>
 1. Install EQ Titanium.
 2. If you want to support more than one install of EverQuest Emu - Copy the Titanium Directory to a new destination.  Rename this directory to something easy to remember, like AXCemu.
 3. Download the following files from DropBox (link above) : AxLauncher.7z [required], classice.zip [required], and client_mapsc.zip [optional]
@@ -85,10 +85,10 @@ If you are installing AX-Classic Repack for the first time, you require the foll
 
 NOTE: Client computers do not require any additional server files.
 
-#Server Only:
+<h2>Server Only:</h2>
 TBA
 
-#Server and Client:
+<h2>Server and Client:</h2>
 Follow both installation instructions to both host and play.
 
 ======
