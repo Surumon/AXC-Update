@@ -1,3 +1,7 @@
+#BIG GIANT IMPORTANT NOTE:
+AX Classic is no longer supporting the repack.  To this end, I am going to support their decision to not update the repack any longer as well.  I may do another project related to EQemu.  If/when this project occurs - it will be annotated here.  All progress on AXC-Repack Update is currently suspended.
+=====
+
 # AX-Classic Repack Update
 
 These are the current updates for the MySQL and quest scripts for the AX-Classic Repack that I am currently working on.  My goal is to get most of the bugs in the repack crushed and fix a few features for a more complete repack experience.  Later I will offer various configurations and tools to further customize the experience you are seeking for you and your friends.
