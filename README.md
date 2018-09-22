@@ -1,3 +1,7 @@
+# New Info
+A newer easy to install EQemu Repack is available. Find more info here: https://github.com/Akkadius/EQEmuInstall/wiki/EQEmu-Readme
+=====
+
 #BIG GIANT IMPORTANT NOTE:
 AX Classic is no longer supporting the repack.  To this end, I am going to support their decision to not update the repack any longer as well.  I may do another project related to EQemu.  If/when this project occurs - it will be annotated here.  All progress on AXC-Repack Update is currently suspended.
 =====
